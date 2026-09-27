@@ -1,6 +1,6 @@
 # proyek1-eda-kelompok-15
 # Volume Lalu Lintas Jalan Tol I-94 Minneapolis–Saint Paul Tahun 2012–2018  
-Nama : ALief Shoufiya Nafi  
+Nama : Alief Shoufiya Nafi  
 NRP : 5027261006  
 Nama : Anggito Abhinaya Sulistyo  
 NRP : 5027261066  
